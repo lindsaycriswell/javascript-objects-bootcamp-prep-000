@@ -1,5 +1,4 @@
-// var playlist = new Object({ Beatles: 'Hey Jude'});
-//
+var playlist = new Object( { Beatles: 'Hey Jude'} );
 //
 // function updatePlaylist(playlist, artistName, songTitle){
 //   playlist = Object.assign(playlist, {[artistName]: songTitle});
